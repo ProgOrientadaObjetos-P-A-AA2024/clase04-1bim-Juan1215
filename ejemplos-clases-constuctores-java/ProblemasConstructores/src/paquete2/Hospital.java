@@ -23,10 +23,10 @@ public class Hospital {
     
     
     public Hospital(){
-        nombre = "na";
-        ciudad = "ciu";
-        numeroDoctores = 100;
-        numeroEnfermeros = 400;
+        nombre = "Militar";
+        ciudad = "Loja";
+        numeroDoctores = 1000;
+        numeroEnfermeros = 3000;
     }
     
         
