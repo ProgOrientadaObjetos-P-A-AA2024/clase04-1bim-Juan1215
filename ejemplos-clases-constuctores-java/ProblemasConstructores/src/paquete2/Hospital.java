@@ -65,7 +65,7 @@ public class Hospital {
     @Override
     public String toString(){
         // String cadena = String.format("%s \n", nombre);
-        String cadena = String.format("%s \n", obtenerNombre());
+        String cadena = String.format("%s \n" , obtenerNombre());
         return cadena;
     }
     
